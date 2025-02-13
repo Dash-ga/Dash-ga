@@ -6,7 +6,7 @@
 <div id="header" align="center">
   <div id="badges">
     <a href="https://t.me/IvchinaDasha">
-      <img src="https://img.shields.io/badge/Telegram-blue?&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
+      <img src="https://img.shields.io/badge/Telegram-blue?logo=Telegram&&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
     </a>
     <a href="https://vk.com/dasha_ivchina">
       <img src="https://img.shields.io/badge/VKontakte-blue?logo=VK&logoColor=white&style=for-the-badge" alt="Vkontakte Badge"/>
