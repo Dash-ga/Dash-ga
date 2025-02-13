@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <h1> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hi, I’m Dasha! </h1>
-  <h3> Schoolgirl from Russia, participant in various competitions and Olympiads in the field of IT </h3>
+  <h3> I am participant in various competitions and Olympiads in the field of IT </h3>
 </div>
 
 <div id="header" align="center">
